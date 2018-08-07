@@ -1,0 +1,2 @@
+# habbogalaxy
+HabboGalaxyBot
